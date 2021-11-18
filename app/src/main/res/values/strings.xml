@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Loguin</string>
+
+    <string name="tv_Nombre">Nombre:</string>
+    <string name="tv_Correo">Correo:</string>
+    <string name="tv_Contraseña">Contraseña:</string>
+    <string name="txt_Nombre_Completo">Ingrese su nombre Completo</string>
+    <string name="txt_Correo">Ingrese su correo electronico</string>
+    <string name="txt_Contraseña">Ingrese su contraseña</string>
+    <string name="btn_Ingresar">Ingresar</string>
+    <string name="btn_Registar">Registrarse</string>
+    <string name="btn_Atras">Atras</string>
+    <string name="btn_Cuenta">Crear Cuenta</string>
+</resources>
